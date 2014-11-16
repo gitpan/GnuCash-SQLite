@@ -23,4 +23,4 @@ requires:
   DateTime: '1.12'
   Path::Tiny: '0.055'
   UUID::Tiny: '1.04'
-version: '0.01'
+version: '0.02'
